@@ -27,7 +27,7 @@ https://refer.discover.com/s/driedmelon
 - Apply after obtaining a credit score of <b>690+</b>. 
 - Check credit score with chase app. 
 - Book an appointment and head down to the bank, and hope that the banker is nice.
-- Use my code and get another $20 from me.
+- Use my code after pming me @driedmelon on telegram to get another $20 from me.
 https://www.referyourchasecard.com/m/18a/6L5/G38H/1561061764
 
 2. Robinhood 
