@@ -10,6 +10,7 @@ https://accounts.chase.com/raf/share/2564356552
 
 2. Discover IT credit card
 - $50 bonus
+- 1% Cashback with 5% rotating categories cashback.
 - First credit card to apply for to build credit. 
 - Apply after getting social security number. After application, call for immediate review and approval.
 Become a Discover Cardmember and get a $50 Statement Credit with your 1st purchase within 3 months.
@@ -22,6 +23,7 @@ https://refer.discover.com/s/driedmelon
 ### The good to have
 1. Chase freedom unlimited VISA 
 - $200 free with $500 spend in 3 months. 
+- Everything at 1.5% Cashback with bonus cashback categories in Chase App, eg. 10% back on Starbucks.
 - Apply after obtaining a credit score of <b>690+</b>. 
 - Check credit score with chase app. 
 - Book an appointment and head down to the bank, and hope that the banker is nice.
