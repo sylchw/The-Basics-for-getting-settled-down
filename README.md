@@ -83,6 +83,16 @@ https://refer.discover.com/s/driedmelon
 
 ## The good to have
 
+### Legal
+1. California ID / Driver's Licence. [Real ID]
+- American ID
+- Good for use for alcohol purchase as some places don't recognize international cards besides passport
+- Able to fly domestic without passport.
+- Bring **2x proof of address** and passport.
+- Proof of address can be: Bank statement, utility bill, pay stub, house lease, car insurance etc.
+- Be prepared to take the test on the same day should you want to apply for a driver's licence.
+- Waiting time averages at about 3 hours. I recommend that you take a queue number, have breakfast, then return. 
+
 ### Transport
 1. Buying a **used** car
 - To find used cars: https://autotempest.com
