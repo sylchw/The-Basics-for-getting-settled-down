@@ -14,7 +14,23 @@ Note: Some options have referral links that are mutually beneficial.
 - For taking Uber/Lyft from the Airport
 - I recommend Youtrip https://you.co/ if you're from Singapore, as it offers wholesale currency exchange rates 
 
+3. US Data Plan
+- For calling Uber/Lyft from the airport
+- Purchase from your respective cell phone providers in singapore, hassle to purchase at airport.
+
 ## The immediate needs after arrival
+
+### Legal
+1. Registering with SEVIS with CIEE
+- Able to use the address you're crashing at, change after moving.
+- Call 1.888.268.6245
+
+2. Social Security Number application
+- Visit your nearest social security office ~ 3-5 days after arrival
+- Bring a pen to fill in an application form
+- Bring all identification and VISA documents, including training plans.
+- Things to note: Not all agents are kind and know what Singapore is. Be prepared to answer many questions or told that you're unable to apply before work begins.
+
 
 ### Transport
 1. Clipper Card
@@ -40,7 +56,7 @@ Note: Some options have referral links that are mutually beneficial.
 1. Chase bank account 
 - $200 free for new checking, $150 free for new savings. 
 - Apply the first week you're here. Bring passport, DS2019, i94, Training plan and proof of address. 
-- Call the nearest branch to make appointment before heading down.
+- Call the nearest branch to make an appointment before heading down as there's usually only 1 banker on staff.
 https://accounts.chase.com/raf/share/2564356552
 
 2. Discover IT credit OR Discover IT student credit
@@ -58,6 +74,12 @@ https://refer.discover.com/s/driedmelon
 1. Uber eats 
 - $7 off your first food
 - eats-49bavm
+
+### Amazon
+1. Amazon Prime Student Membership
+- Free 6 months with any .edu email
+- Able to use NUS Friendly email / Stanford email / E1234567 email
+- https://tinyurl.com/t32ajnw
 
 ## The good to have
 
