@@ -22,7 +22,8 @@ Note: Some options have referral links that are mutually beneficial.
 
 ### Legal
 1. Registering with SEVIS with CIEE
-- Able to use the address you're crashing at, change after moving.
+- Able to use the address you're crashing at.
+- Call again to change address within 5 days after moving.
 - Call 1.888.268.6245
 
 2. Social Security Number application
