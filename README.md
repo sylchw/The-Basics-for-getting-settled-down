@@ -12,7 +12,7 @@ Note: Some options have referral links that are mutually beneficial.
     
 2. US Currency MasterCard/Visa
 - For taking Uber/Lyft from the Airport
-- I recommend (Youtrip)[https://you.co/] if you're from Singapore, as it offers wholesale currency exchange rates 
+- I recommend [Youtrip](https://you.co/) if you're from Singapore, as it offers wholesale currency exchange rates 
 
 3. US Data Plan
 - For calling Uber/Lyft from the airport
@@ -121,7 +121,8 @@ Note: Some options have referral links that are mutually beneficial.
 1. Robinhood 
 - 1 free stock counter. 
 - Apply after obtaining social security number
-Hong Wei referred you so you get a free stock. Claim this stock now without investing money first: https://join.robinhood.com/hongwec7
+- Hong Wei referred you so you get a free stock. Claim this stock now without investing money first: 
+- [Referral Link](https://join.robinhood.com/hongwec7)
 
 ### Free stuff
 1. Freecycle
