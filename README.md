@@ -1,5 +1,6 @@
 # The Basics for getting settled down in the Bay Area
-Collated list of things with mutual referral bonuses for people coming to the bay area for the first time.
+Collated list of things for people coming to the bay area for the first time.
+Note: Some options have referral links that are mutually beneficial. 
 
 ### Before arrival
 1. Virtual Phone Number
@@ -8,15 +9,23 @@ Collated list of things with mutual referral bonuses for people coming to the ba
     - TextNow
     - https://play.google.com/store/apps/details?id=com.enflick.android.TextNow
     - https://apps.apple.com/us/app/textnow-call-text-unlimited/id314716233
+    
+2. US Currency MasterCard/Visa
+- For taking Uber/Lyft from the Airport
+- I recommend Youtrip https://you.co/ if you're from Singapore, as it offers wholesale currency exchange rates 
 
 ### The immediate needs after arrival
-1. Chase bank account 
+1. Clipper Card
+- Travel card for the bay area public transport.
+- Purchasable at any Walgreens, Whole Foods Market, SMART fare machines @ BART, Muni Metro and Ferry terminals
+
+2. Chase bank account 
 - $200 free for new checking, $150 free for new savings. 
 - Apply the first week you're here. Bring passport, DS2019, i94, Training plan and proof of address. 
 - Call the nearest branch to make appointment before heading down.
 https://accounts.chase.com/raf/share/2564356552
 
-2. Discover IT credit OR Discover IT student credit
+3. Discover IT credit OR Discover IT student credit
 - $50 bonus
 - 1% Cashback with 5% rotating categories cashback.
 - First credit card to apply for to build credit. 
@@ -27,12 +36,18 @@ https://refer.discover.com/s/driedmelon
 - Cons of student card: Unable to raise credit limit above $1000
 - Benefits of Discover IT card: Able to raise credit limit above $1000, so easier to build credit score.
 
-3. Uber eats 
+4. Uber eats 
 - $7 off your first food
 - eats-49bavm
 
 ### The good to have
-1. Chase freedom unlimited VISA 
+1. Buying a **used** car
+- Autotempest.com
+- Video tutorial on how to buy a used car: https://www.youtube.com/watch?v=vC8LbvYk6es
+- Used car inspection checklist: https://goo.gl/uqaWYa
+- To avoid paying sales tax for peer to peer sales, check if the seller is willing to declare the sale as a **gift**.
+
+2. Chase freedom unlimited VISA 
 - $200 free with $500 spend in 3 months. 
 - Everything at 1.5% Cashback with bonus cashback categories in Chase App, eg. 10% back on Starbucks.
 - Apply after obtaining a credit score of <b>690+</b>. 
@@ -41,11 +56,11 @@ https://refer.discover.com/s/driedmelon
 - Use my code after pming me @driedmelon on telegram to get another $20 from me.
 https://www.referyourchasecard.com/m/18a/6L5/G38H/1561061764
 
-2. Robinhood 
+3. Robinhood 
 - 1 free stock counter. 
 - Apply after obtaining social security number
 Hong Wei referred you so you get a free stock. Claim this stock now without investing money first: https://join.robinhood.com/hongwec7
 
-3. Rakuten Cashback 
+4. Rakuten Cashback 
 - $10 free first cashback after purchase
 https://go.ebat.es/SOURMI12?eeid=44753
