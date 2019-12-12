@@ -7,12 +7,12 @@ Note: Some options have referral links that are mutually beneficial.
 - Good to have to search for housing, for a rental agent to contact you
 - Calling apps on Googleplay/Appstore such as:
     - TextNow
-    - https://play.google.com/store/apps/details?id=com.enflick.android.TextNow
-    - https://apps.apple.com/us/app/textnow-call-text-unlimited/id314716233
+    - [Google Playstore Link](https://play.google.com/store/apps/details?id=com.enflick.android.TextNow)
+    - [iOS App Store Link](https://apps.apple.com/us/app/textnow-call-text-unlimited/id314716233)
     
 2. US Currency MasterCard/Visa
 - For taking Uber/Lyft from the Airport
-- I recommend Youtrip https://you.co/ if you're from Singapore, as it offers wholesale currency exchange rates 
+- I recommend (Youtrip)[https://you.co/] if you're from Singapore, as it offers wholesale currency exchange rates 
 
 3. US Data Plan
 - For calling Uber/Lyft from the airport
@@ -40,8 +40,8 @@ Note: Some options have referral links that are mutually beneficial.
 
 2. Muni APP (SF Only)
 - Bus app to buy tickets on SF buses
-- https://play.google.com/store/apps/details?id=com.sfmta.mt.mobiletickets
-- https://apps.apple.com/us/app/munimobile/id1049645228
+- [Google Playstore Link](https://play.google.com/store/apps/details?id=com.sfmta.mt.mobiletickets)
+- [iOS App Store Link](https://apps.apple.com/us/app/munimobile/id1049645228)
 
 ### Phone Plans
 1. Mint Mobile (If you have no money and stay in the city)
@@ -60,7 +60,7 @@ Note: Some options have referral links that are mutually beneficial.
 - $200 free for new checking, $150 free for new savings. 
 - Apply the first week you're here. Bring passport, DS2019, i94, Training plan and proof of address. 
 - Call the nearest branch to make an appointment before heading down as there's usually only 1 banker on staff.
-https://accounts.chase.com/raf/share/2564356552
+- [Referral Link](https://accounts.chase.com/raf/share/2564356552)
 
 2. Discover IT credit OR Discover IT student credit
 - $50 bonus
@@ -68,7 +68,7 @@ https://accounts.chase.com/raf/share/2564356552
 - First credit card to apply for to build credit. 
 - Apply after getting social security number. After application, call for immediate review and approval.
 - LINK to Discover IT Credit: Become a Discover Cardmember and get a $50 Statement Credit with your 1st purchase within 3 months.
-https://refer.discover.com/s/driedmelon
+- [Referral Link](https://refer.discover.com/s/driedmelon)
 - Benefits of student card: $20 bonus cashback for good GPA after sending them your school results every year
 - Cons of student card: Unable to raise credit limit above $1000
 - Benefits of Discover IT card: Able to raise credit limit above $1000, so easier to build credit score.
@@ -76,13 +76,13 @@ https://refer.discover.com/s/driedmelon
 ### Food
 1. Uber eats 
 - $7 off your first food
-- eats-49bavm
+- Referral code: eats-49bavm
 
 ### Amazon
 1. Amazon Prime Student Membership
 - Free 6 months with any .edu email
 - Able to use NUS Friendly email / Stanford email / E1234567 email
-- https://tinyurl.com/t32ajnw
+- Prime Student Signup link: https://tinyurl.com/t32ajnw
 
 ## The good to have
 
@@ -111,11 +111,11 @@ https://refer.discover.com/s/driedmelon
 - Check credit score with chase app. 
 - Book an appointment and head down to the bank, and hope that the banker is nice.
 - Use my code after pming me @driedmelon on telegram to get another $20 from me.
-https://www.referyourchasecard.com/m/18a/6L5/G38H/1561061764
+- [Referral Link](https://www.referyourchasecard.com/m/18a/6L5/G38H/1561061764)
 
 2. Rakuten Cashback 
 - $10 free first cashback after purchase
-https://go.ebat.es/SOURMI12?eeid=44753
+- [Referral Link](https://go.ebat.es/SOURMI12?eeid=44753)
 
 ### Investments
 1. Robinhood 
