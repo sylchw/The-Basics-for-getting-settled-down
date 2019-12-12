@@ -47,10 +47,12 @@ Note: Some options have referral links that are mutually beneficial.
 - Most affordable data plans with unlimited calls and text
 - Prices range at $15/mth average for 8GB/mth
 - Free $15 with my referral link: http://fbuy.me/ojWwo
+- Cons: Lack of cell phone signal in sparse areas while travelling. Uses TMobile Cell Towers.
 
 2. Google Fi (If you have 4 people in your house)
 - Unlimited data, text, calls around the whole world for $45/mth
 - https://fi.google.com/about/
+- Pros: Able to switch between different partner operators based on the strongest signal.
 
 ### Money
 1. Chase bank account 
@@ -120,4 +122,29 @@ https://go.ebat.es/SOURMI12?eeid=44753
 - Apply after obtaining social security number
 Hong Wei referred you so you get a free stock. Claim this stock now without investing money first: https://join.robinhood.com/hongwec7
 
+### Free stuff
+1. Freecycle
+- Free used furniture and appliances from your neighbourhood
+- Best place to find working printers
+- https://www.freecycle.org/
 
+2. Facebook Marketplace
+- The carousell of the Bay Area
+- Good for cheap used stuff
+
+### Furniture
+1. Ikea
+- Standard cheap furniture
+- 365 days returns policy
+
+2. Walmart
+- The american hypermarket
+
+3. Target
+- The classier american hypermarket
+
+4. Costco
+- Requires a membership.
+- Cheap things in bulk
+
+5. Amazon
