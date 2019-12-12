@@ -16,13 +16,16 @@ Collated list of things with mutual referral bonuses for people coming to the ba
 - Call the nearest branch to make appointment before heading down.
 https://accounts.chase.com/raf/share/2564356552
 
-2. Discover IT credit card
+2. Discover IT credit OR Discover IT student credit
 - $50 bonus
 - 1% Cashback with 5% rotating categories cashback.
 - First credit card to apply for to build credit. 
 - Apply after getting social security number. After application, call for immediate review and approval.
-Become a Discover Cardmember and get a $50 Statement Credit with your 1st purchase within 3 months.
+- LINK to Discover IT Credit: Become a Discover Cardmember and get a $50 Statement Credit with your 1st purchase within 3 months.
 https://refer.discover.com/s/driedmelon
+- Benefits of student card: $20 bonus cashback for good GPA after sending them your school results every year
+- Cons of student card: Unable to raise credit limit above $1000
+- Benefits of Discover IT card: Able to raise credit limit above $1000, so easier to build credit score.
 
 3. Uber eats 
 - $7 off your first food
