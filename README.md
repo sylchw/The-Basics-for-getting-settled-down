@@ -1,7 +1,15 @@
 # The Basics for getting settled down in the Bay Area
 Collated list of things with mutual referral bonuses for people coming to the bay area for the first time.
 
-### The immediate needs
+### Before arrival
+1. Virtual Phone Number
+- Good to have to search for housing, for a rental agent to contact you
+- Calling apps on Googleplay/Appstore such as:
+    - TextNow
+    - https://play.google.com/store/apps/details?id=com.enflick.android.TextNow
+    - https://apps.apple.com/us/app/textnow-call-text-unlimited/id314716233
+
+### The immediate needs after arrival
 1. Chase bank account 
 - $200 free for new checking, $150 free for new savings. 
 - Apply the first week you're here. Bring passport, DS2019, i94, Training plan and proof of address. 
