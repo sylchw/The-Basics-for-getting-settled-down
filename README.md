@@ -1,8 +1,8 @@
 # The Basics for getting settled down in the Bay Area
-Collated list of things for people coming to the bay area for the first time.
+Collated list of things for people coming to the bay area for the first time. <br>
 Note: Some options have referral links that are mutually beneficial. 
 
-### Before arrival
+## Before arrival
 1. Virtual Phone Number
 - Good to have to search for housing, for a rental agent to contact you
 - Calling apps on Googleplay/Appstore such as:
@@ -14,18 +14,36 @@ Note: Some options have referral links that are mutually beneficial.
 - For taking Uber/Lyft from the Airport
 - I recommend Youtrip https://you.co/ if you're from Singapore, as it offers wholesale currency exchange rates 
 
-### The immediate needs after arrival
+## The immediate needs after arrival
+
+### Transport
 1. Clipper Card
 - Travel card for the bay area public transport.
 - Purchasable at any Walgreens, Whole Foods Market, SMART fare machines @ BART, Muni Metro and Ferry terminals
 
-2. Chase bank account 
+2. Muni APP (SF Only)
+- Bus app to buy tickets on SF buses
+- https://play.google.com/store/apps/details?id=com.sfmta.mt.mobiletickets
+- https://apps.apple.com/us/app/munimobile/id1049645228
+
+### Phone Plans
+1. Mint Mobile (If you have no money and stay in the city)
+- Most affordable data plans with unlimited calls and text
+- Prices range at $15/mth average for 8GB/mth
+- Free $15 with my referral link: http://fbuy.me/ojWwo
+
+2. Google Fi (If you have 4 people in your house)
+- Unlimited data, text, calls around the whole world for $45/mth
+- https://fi.google.com/about/
+
+### Money
+1. Chase bank account 
 - $200 free for new checking, $150 free for new savings. 
 - Apply the first week you're here. Bring passport, DS2019, i94, Training plan and proof of address. 
 - Call the nearest branch to make appointment before heading down.
 https://accounts.chase.com/raf/share/2564356552
 
-3. Discover IT credit OR Discover IT student credit
+2. Discover IT credit OR Discover IT student credit
 - $50 bonus
 - 1% Cashback with 5% rotating categories cashback.
 - First credit card to apply for to build credit. 
@@ -36,18 +54,22 @@ https://refer.discover.com/s/driedmelon
 - Cons of student card: Unable to raise credit limit above $1000
 - Benefits of Discover IT card: Able to raise credit limit above $1000, so easier to build credit score.
 
-4. Uber eats 
+### Food
+1. Uber eats 
 - $7 off your first food
 - eats-49bavm
 
-### The good to have
+## The good to have
+
+### Transport
 1. Buying a **used** car
 - To find used cars: https://autotempest.com
 - Video tutorial on how to buy a used car: https://www.youtube.com/watch?v=vC8LbvYk6es
 - Used car inspection checklist: https://goo.gl/uqaWYa
 - To avoid paying sales tax for peer to peer sales, check if the seller is willing to declare the sale as a **gift**.
 
-2. Chase freedom unlimited VISA 
+### Money
+1. Chase freedom unlimited VISA 
 - $200 free with $500 spend in 3 months. 
 - Everything at 1.5% Cashback with bonus cashback categories in Chase App, eg. 10% back on Starbucks.
 - Apply after obtaining a credit score of <b>690+</b>. 
@@ -56,11 +78,14 @@ https://refer.discover.com/s/driedmelon
 - Use my code after pming me @driedmelon on telegram to get another $20 from me.
 https://www.referyourchasecard.com/m/18a/6L5/G38H/1561061764
 
-3. Robinhood 
+2. Rakuten Cashback 
+- $10 free first cashback after purchase
+https://go.ebat.es/SOURMI12?eeid=44753
+
+### Investments
+1. Robinhood 
 - 1 free stock counter. 
 - Apply after obtaining social security number
 Hong Wei referred you so you get a free stock. Claim this stock now without investing money first: https://join.robinhood.com/hongwec7
 
-4. Rakuten Cashback 
-- $10 free first cashback after purchase
-https://go.ebat.es/SOURMI12?eeid=44753
+
