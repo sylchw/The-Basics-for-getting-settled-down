@@ -42,7 +42,7 @@ https://refer.discover.com/s/driedmelon
 
 ### The good to have
 1. Buying a **used** car
-- Autotempest.com
+- To find used cars: https://autotempest.com
 - Video tutorial on how to buy a used car: https://www.youtube.com/watch?v=vC8LbvYk6es
 - Used car inspection checklist: https://goo.gl/uqaWYa
 - To avoid paying sales tax for peer to peer sales, check if the seller is willing to declare the sale as a **gift**.
