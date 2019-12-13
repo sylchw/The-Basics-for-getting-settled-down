@@ -60,7 +60,7 @@ Note: Some options have referral links that are mutually beneficial.
 - $200 free for new checking, $150 free for new savings. 
 - Apply the first week you're here. Bring passport, DS2019, i94, Training plan and proof of address. 
 - Call the nearest branch to make an appointment before heading down as there's usually only 1 banker on staff.
-- [Referral Link](https://accounts.chase.com/raf/share/2564356552)
+- [Please use my referral link for the bonuses :')](https://accounts.chase.com/raf/share/2564356552)
 
 2. Discover IT credit OR Discover IT student credit
 - $50 bonus
@@ -68,7 +68,7 @@ Note: Some options have referral links that are mutually beneficial.
 - First credit card to apply for to build credit. 
 - Apply after getting social security number. After application, call for immediate review and approval.
 - LINK to Discover IT Credit: Become a Discover Cardmember and get a $50 Statement Credit with your 1st purchase within 3 months.
-- [Referral Link](https://refer.discover.com/s/driedmelon)
+- [Please use my referral link to get $50 :')](https://refer.discover.com/s/driedmelon)
 - Benefits of student card: $20 bonus cashback for good GPA after sending them your school results every year
 - Cons of student card: Unable to raise credit limit above $1000
 - Benefits of Discover IT card: Able to raise credit limit above $1000, so easier to build credit score.
@@ -100,8 +100,8 @@ Note: Some options have referral links that are mutually beneficial.
 1. Buying a **used** car
 - To find used cars: https://autotempest.com
 - Video tutorial on how to buy a used car: https://www.youtube.com/watch?v=vC8LbvYk6es
-- Used car inspection checklist: https://goo.gl/uqaWYa
-- To avoid paying sales tax for peer to peer sales, check if the seller is willing to declare the sale as a **gift**.
+- Used car inspection checklist by ChrisFix (Youtuber): https://goo.gl/uqaWYa
+- To avoid paying sales tax for peer to peer sales, check if the seller is willing to declare the sale as a **GIFT**. Add them on facebook as friends or something to show as proof if DMV asks. Savings of up to a few hundred bucks.
 
 ### Money
 1. Chase freedom unlimited VISA 
@@ -111,23 +111,27 @@ Note: Some options have referral links that are mutually beneficial.
 - Check credit score with chase app. 
 - Book an appointment and head down to the bank, and hope that the banker is nice.
 - Use my code after pming me @driedmelon on telegram to get another $20 from me.
-- [Referral Link](https://www.referyourchasecard.com/m/18a/6L5/G38H/1561061764)
+- [Please use my referral link to get bonuses :')](https://www.referyourchasecard.com/m/18a/6L5/G38H/1561061764)
 
 2. Rakuten Cashback 
 - $10 free first cashback after purchase
-- [Referral Link](https://go.ebat.es/SOURMI12?eeid=44753)
+- [Please use my referral link for $10 :')](https://go.ebat.es/SOURMI12?eeid=44753)
 
 ### Investments
 1. Robinhood 
 - 1 free stock counter. 
 - Apply after obtaining social security number
 - Hong Wei referred you so you get a free stock. Claim this stock now without investing money first: 
-- [Referral Link](https://join.robinhood.com/hongwec7)
+- [Please use my referral link so we both get 1 free stock each! :')](https://join.robinhood.com/hongwec7)
+
+2. https://simplywall.st
+- Investment advice
+- Use at your own risk
 
 ### Free stuff
 1. Freecycle
 - Free used furniture and appliances from your neighbourhood
-- Best place to find working printers
+- Best place to find free used printers
 - https://www.freecycle.org/
 
 2. Facebook Marketplace
