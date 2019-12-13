@@ -123,7 +123,7 @@ Note: Some options have referral links that are mutually beneficial.
 - Unlimited commission free trades. 
 - Apply after obtaining social security number
 - Hong Wei referred you so you get a free stock. Claim this stock now without investing money first: 
-- [Please use my referral link so we both get 1 free stock each! :')](https://join.robinhood.com/hongwec7)
+- [Please use my referral link so we both get 1 free stock each! :')](https://share.robinhood.com/sl-hongwec7)
 
 2. https://simplywall.st
 - Investment advice
