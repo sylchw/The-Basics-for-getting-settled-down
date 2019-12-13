@@ -120,6 +120,7 @@ Note: Some options have referral links that are mutually beneficial.
 ### Investments
 1. Robinhood 
 - 1 free stock counter. 
+- Unlimited commission free trades. 
 - Apply after obtaining social security number
 - Hong Wei referred you so you get a free stock. Claim this stock now without investing money first: 
 - [Please use my referral link so we both get 1 free stock each! :')](https://join.robinhood.com/hongwec7)
