@@ -2,6 +2,8 @@
 Collated list of things for people coming to the bay area for the first time. <br>
 Note: Some options have referral links that are mutually beneficial. 
 
+# The necessities
+
 ## Before arrival
 1. Virtual Phone Number
 - Good to have to search for housing, for a rental agent to contact you
