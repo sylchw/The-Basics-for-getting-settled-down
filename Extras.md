@@ -13,7 +13,7 @@
 
 3. California Driving Culture
 - Bay Area / Los Angeles
-  - People drive like retards. The hours spent sitting in SF traffic during rush hour burns all the patience of even the kindest driver away. Be firm, but not aggressive when driving.
+  - People drive like retards. The hours spent sitting in SF traffic during rush hour burns all the patience of even the kindest driver away. Be careful, firm, but not aggressive when driving.
 - In the event of an accident
   - Check if everyone is ok, and if there's a need to call 911.
   - DO NOT ADMIT FAULT. Exchange insurance details and leave.
