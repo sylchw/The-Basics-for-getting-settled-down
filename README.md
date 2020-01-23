@@ -106,7 +106,10 @@ Note: Some options have referral links that are mutually beneficial.
 - To avoid paying sales tax for peer to peer sales, check if the seller is willing to declare the sale as a **GIFT**. Add them on facebook as friends or something to show as proof if DMV asks. Savings of up to a few hundred bucks.
 
 ### Money
-1. Chase freedom unlimited VISA 
+1. Transferwise
+- Free $500 transfer from SGD to USD with https://transferwise.com/invite/u/hongc72
+
+2. Chase freedom unlimited VISA 
 - $200 free with $500 spend in 3 months. 
 - Everything at 1.5% Cashback with bonus cashback categories in Chase App, eg. 10% back on Starbucks.
 - Apply after obtaining a credit score of <b>690+</b>. 
@@ -115,7 +118,7 @@ Note: Some options have referral links that are mutually beneficial.
 - Use my code after pming me @driedmelon on telegram to get another $20 from me.
 - [Please use my referral link to get bonuses :')](https://www.referyourchasecard.com/m/18a/6L5/G38H/1561061764)
 
-2. Rakuten Cashback 
+3. Rakuten Cashback 
 - $10 free first cashback after purchase
 - [Please use my referral link for $10 :')](https://go.ebat.es/SOURMI12?eeid=44753)
 
