@@ -109,16 +109,19 @@ Note: Some options have referral links that are mutually beneficial.
 1. Transferwise
 - Free $500 transfer from SGD to USD with https://transferwise.com/invite/u/hongc72
 
-2. Chase freedom unlimited VISA 
+
+2. Chase freedom unlimited VISA OR Chase freedom VISA
 - $200 free with $500 spend in 3 months. 
 - Everything at 1.5% Cashback with bonus cashback categories in Chase App, eg. 10% back on Starbucks.
 - Apply after obtaining a credit score of <b>690+</b>. 
 - Check credit score with chase app. 
 - Book an appointment and head down to the bank, and hope that the banker is nice.
 
+
 - Use my code after pming me @driedmelon on telegram to get another $20 from me.
 - Referral link works for either Chase Freedom OR Chase Freedom Unlimited
 - [Please use my referral link to get bonuses :')](https://www.referyourchasecard.com/2f/7MFVOOOCO7)
+
 
 3. Rakuten Cashback 
 - $10 free first cashback after purchase
