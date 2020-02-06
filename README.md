@@ -115,8 +115,10 @@ Note: Some options have referral links that are mutually beneficial.
 - Apply after obtaining a credit score of <b>690+</b>. 
 - Check credit score with chase app. 
 - Book an appointment and head down to the bank, and hope that the banker is nice.
+
 - Use my code after pming me @driedmelon on telegram to get another $20 from me.
-- [Please use my referral link to get bonuses :')](https://www.referyourchasecard.com/m/18a/6L5/G38H/1561061764)
+- Referral link works for either Chase Freedom OR Chase Freedom Unlimited
+- [Please use my referral link to get bonuses :')](https://www.referyourchasecard.com/2f/7MFVOOOCO7)
 
 3. Rakuten Cashback 
 - $10 free first cashback after purchase
