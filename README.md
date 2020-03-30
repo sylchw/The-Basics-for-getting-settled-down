@@ -75,6 +75,14 @@ Note: Some options have referral links that are mutually beneficial.
 - Cons of student card: Unable to raise credit limit above $1000
 - Benefits of Discover IT card: Able to raise credit limit above $1000, so easier to build credit score.
 
+### Medication
+1. GoodRx 
+- Slashes price of common medication sometimes by 80%
+- Cheaper than claiming insurance in most cases
+- Aetna Open Choice PPO -> Max cost of $20 per medicine (NOT per prescription)
+- [Google Playstore Link](https://play.google.com/store/apps/details?id=com.goodrx&hl=en)
+- [iOS Appstore Link](https://apps.apple.com/us/app/goodrx-save-on-prescriptions/id485357017)
+
 ### Food
 1. Uber eats 
 - $7 off your first food
